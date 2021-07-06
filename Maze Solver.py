@@ -157,13 +157,16 @@ solved_image = processor.open("solved.png")
 resize(solved_image)
 
 
-# In[ ]:
+#reference: 
+
+#pillow PIL fork documentation: https://pillow.readthedocs.io/en/stable/reference/Image.html 
+
+#Depth first Search: https://regenerativetoday.com/depth-first-search-algorithm-in-details-in-python/
+
+#Original Concept: @Aphrx 
 
 
 
-
-
-# In[ ]:
 
 
 
