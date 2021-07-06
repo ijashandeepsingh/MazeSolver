@@ -3,7 +3,7 @@
 
 # # Maze Solver 
 # ## Using Depth Per Search following basic Image Processing
-# 
+# ## cell creations over Jupyter Notebook
 # ### Contact: singhjashandeep2332@gmail.com
 # ### Github: @ijashandeepsingh
 # 
